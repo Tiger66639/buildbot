@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <issueTrackers>
+    <trackerConnection key="youtrack1" type="youtrack">
+      <param name="secure:password" value="zxxf0b6753968585d24c3db07e945307465" />
+      <param name="name" value="Buildbot" />
+      <param name="host" value="http://localhost:88/" />
+      <param name="idPrefix" value="BC TEST" />
+      <param name="autoSync" value="true" />
+      <param name="username" value="tiger66639@live.de" />
+    </trackerConnection>
+  </issueTrackers>
+  <versionedSettings rootId="Buildbot_HttpsGithubComTiger66639buildbotGitRefsHeadsMaster" enabled="true" showChanges="true" buildSettings="PREFER_VCS" />
+</settings>
+
